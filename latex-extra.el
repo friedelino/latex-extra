@@ -129,7 +129,6 @@
 
 (require 'tex)
 (require 'latex)
-(require 'tex-buf)
 (require 'texmathp)
 (require 'cl-lib)
 (require 'outline)
